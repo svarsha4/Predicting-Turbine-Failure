@@ -8,7 +8,7 @@
 ## Acknowledgements:
 
 We give credit to Drew Covington, Theresa Sheridan, and Jack Schwartz
-for providing code that we ended up using to help answer the business
+for providing us some code that we ended up using to help answer the business
 problem. Additionally, we give credit to Landon Norkus for providing us the weather data.
 
 ## Sources:
